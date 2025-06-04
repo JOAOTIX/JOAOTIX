@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009FF7&width=435&lines=Desarrollador+Full+stack+web;Experiencia+en+tecnolog%C3%ADas+como+Java%2C+Spring+Boot%2C+JavaScript%2C+React+y+m%C3%A1s.;Me+apasiona+construir+soluciones+%C3%BAtiles;Amo+aprender+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=009FF7&width=480&lines=Desarrollador+Full+stack+web;Experiencia+en+Spring+Boot+y+JS+%2B+React+;Me+apasiona+construir+soluciones+utiles;Amo+aprender+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 </p>
 
 ###
