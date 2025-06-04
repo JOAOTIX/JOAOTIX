@@ -2,7 +2,9 @@
 
 ###
 
-<h4 align="left">🧑‍💻 Sobre mí<br>Soy Joao Urteaga, estudiante de desarrollo de software y programador Full Stack con experiencia en tecnologías como Java, Spring Boot, JavaScript, React y más. Me apasiona construir soluciones útiles, aprender nuevas tecnologías y participar en proyectos que me reten.</h4>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=009FF7&width=435&lines=Desarrollador+Full+stack+web;Experiencia+en+tecnolog%C3%ADas+como+Java%2C+Spring+Boot%2C+JavaScript%2C+React+y+m%C3%A1s.;Me+apasiona+construir+soluciones+%C3%BAtiles;Amo+aprender+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
+</p>
 
 ###
 
